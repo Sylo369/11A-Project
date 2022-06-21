@@ -1,0 +1,15 @@
+C:\Users\mitko\source\repos\Fruit Project Dimitar Kuzmanov 11 A\Fruit Project Dimitar Kuzmanov 11 A\obj\Debug\Fruit_Project_Dimitar_Kuzmanov_11_A.Form1.resources
+C:\Users\mitko\source\repos\Fruit Project Dimitar Kuzmanov 11 A\Fruit Project Dimitar Kuzmanov 11 A\obj\Debug\Fruit_Project_Dimitar_Kuzmanov_11_A.Properties.Resources.resources
+C:\Users\mitko\source\repos\Fruit Project Dimitar Kuzmanov 11 A\Fruit Project Dimitar Kuzmanov 11 A\obj\Debug\Fruit Project Dimitar Kuzmanov 11 A.csproj.GenerateResource.cache
+C:\Users\mitko\source\repos\Fruit Project Dimitar Kuzmanov 11 A\Fruit Project Dimitar Kuzmanov 11 A\obj\Debug\Fruit Project Dimitar Kuzmanov 11 A.csproj.CoreCompileInputs.cache
+C:\Users\mitko\source\repos\Fruit Project Dimitar Kuzmanov 11 A\Fruit Project Dimitar Kuzmanov 11 A\bin\Debug\Fruit Project Dimitar Kuzmanov 11 A.exe.config
+C:\Users\mitko\source\repos\Fruit Project Dimitar Kuzmanov 11 A\Fruit Project Dimitar Kuzmanov 11 A\bin\Debug\Fruit Project Dimitar Kuzmanov 11 A.exe
+C:\Users\mitko\source\repos\Fruit Project Dimitar Kuzmanov 11 A\Fruit Project Dimitar Kuzmanov 11 A\bin\Debug\Fruit Project Dimitar Kuzmanov 11 A.pdb
+C:\Users\mitko\source\repos\Fruit Project Dimitar Kuzmanov 11 A\Fruit Project Dimitar Kuzmanov 11 A\bin\Debug\EntityFramework.dll
+C:\Users\mitko\source\repos\Fruit Project Dimitar Kuzmanov 11 A\Fruit Project Dimitar Kuzmanov 11 A\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mitko\source\repos\Fruit Project Dimitar Kuzmanov 11 A\Fruit Project Dimitar Kuzmanov 11 A\bin\Debug\EntityFramework.xml
+C:\Users\mitko\source\repos\Fruit Project Dimitar Kuzmanov 11 A\Fruit Project Dimitar Kuzmanov 11 A\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mitko\source\repos\Fruit Project Dimitar Kuzmanov 11 A\Fruit Project Dimitar Kuzmanov 11 A\obj\Debug\Fruit Project Dimitar Kuzmanov 11 A.csproj.CopyComplete
+C:\Users\mitko\source\repos\Fruit Project Dimitar Kuzmanov 11 A\Fruit Project Dimitar Kuzmanov 11 A\obj\Debug\Fruit Project Dimitar Kuzmanov 11 A.exe
+C:\Users\mitko\source\repos\Fruit Project Dimitar Kuzmanov 11 A\Fruit Project Dimitar Kuzmanov 11 A\obj\Debug\Fruit Project Dimitar Kuzmanov 11 A.pdb
+C:\Users\mitko\source\repos\Fruit Project Dimitar Kuzmanov 11 A\Fruit Project Dimitar Kuzmanov 11 A\obj\Debug\Fruit_Project_Dimitar_Kuzmanov_11_A.Migrations.IntialMigration1.resources
